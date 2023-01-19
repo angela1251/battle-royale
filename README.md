@@ -1,1 +1,1 @@
-# battle-royale
+# Battle Royale against Elementary School
