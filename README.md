@@ -4,4 +4,6 @@
 # elementary school
 
 
-#
+# back of the school 
+
+# front door
