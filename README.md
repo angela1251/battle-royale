@@ -6,4 +6,4 @@
 
 # [back of the school](../back-door)
 
-# front door
+# [front door]
