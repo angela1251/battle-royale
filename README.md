@@ -6,4 +6,4 @@
 
 
 
-# [front door](../cafetaria)
+# [front door](../cafeteria)
